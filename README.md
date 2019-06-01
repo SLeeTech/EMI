@@ -17,4 +17,19 @@ Signatures
 
 Message Streams
 
+			
 
+
+Required Librarys:
+
+rsa
+
+cryptography
+
+pyblake2
+
+base64
+
+json
+
+pyota
