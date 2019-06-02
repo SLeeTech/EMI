@@ -7,7 +7,7 @@ The Goal of this Library is to send and read encrypted Messages with the Pyota L
 Another Feature is to create Message Streams. Inspired by the MAM Library of Iota.
 
 
-Features:
+                                        Features:
 
 Symmetric Encryption
 
@@ -20,7 +20,7 @@ Message Streams
 			
 
 
-Required Librarys:
+                                        Required Librarys:
 
 rsa
 
